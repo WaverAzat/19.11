@@ -1,0 +1,15 @@
+/Users/azatsaifullin/Projects/19.11/tm/bin/Debug/net6.0/tm
+/Users/azatsaifullin/Projects/19.11/tm/bin/Debug/net6.0/tm.deps.json
+/Users/azatsaifullin/Projects/19.11/tm/bin/Debug/net6.0/tm.runtimeconfig.json
+/Users/azatsaifullin/Projects/19.11/tm/bin/Debug/net6.0/tm.dll
+/Users/azatsaifullin/Projects/19.11/tm/bin/Debug/net6.0/tm.pdb
+/Users/azatsaifullin/Projects/19.11/tm/obj/Debug/net6.0/tm.csproj.AssemblyReference.cache
+/Users/azatsaifullin/Projects/19.11/tm/obj/Debug/net6.0/tm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azatsaifullin/Projects/19.11/tm/obj/Debug/net6.0/tm.AssemblyInfoInputs.cache
+/Users/azatsaifullin/Projects/19.11/tm/obj/Debug/net6.0/tm.AssemblyInfo.cs
+/Users/azatsaifullin/Projects/19.11/tm/obj/Debug/net6.0/tm.csproj.CoreCompileInputs.cache
+/Users/azatsaifullin/Projects/19.11/tm/obj/Debug/net6.0/tm.dll
+/Users/azatsaifullin/Projects/19.11/tm/obj/Debug/net6.0/refint/tm.dll
+/Users/azatsaifullin/Projects/19.11/tm/obj/Debug/net6.0/tm.pdb
+/Users/azatsaifullin/Projects/19.11/tm/obj/Debug/net6.0/tm.genruntimeconfig.cache
+/Users/azatsaifullin/Projects/19.11/tm/obj/Debug/net6.0/ref/tm.dll
